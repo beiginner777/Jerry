@@ -1,0 +1,6 @@
+D:/vscode/boost/build/CMakeFiles/edit_cache.dir
+D:/vscode/boost/build/CMakeFiles/rebuild_cache.dir
+D:/vscode/boost/build/src/CMakeFiles/10_server.dir
+D:/vscode/boost/build/src/CMakeFiles/10_client.dir
+D:/vscode/boost/build/src/CMakeFiles/edit_cache.dir
+D:/vscode/boost/build/src/CMakeFiles/rebuild_cache.dir

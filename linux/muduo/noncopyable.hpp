@@ -2,7 +2,7 @@
 #define NONCOPYABLE_H
 
 /*
-** 是为了让继承类不能被拷贝
+* 是为了让继承类不能被拷贝
 */
 
 class noncopyable

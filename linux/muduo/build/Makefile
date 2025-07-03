@@ -177,6 +177,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/muduo.dir/build.make CMakeFiles/muduo.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+timestamp.o: timestamp.cpp.o
+.PHONY : timestamp.o
+
+# target to build an object file
+timestamp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muduo.dir/build.make CMakeFiles/muduo.dir/timestamp.cpp.o
+.PHONY : timestamp.cpp.o
+
+timestamp.i: timestamp.cpp.i
+.PHONY : timestamp.i
+
+# target to preprocess a source file
+timestamp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muduo.dir/build.make CMakeFiles/muduo.dir/timestamp.cpp.i
+.PHONY : timestamp.cpp.i
+
+timestamp.s: timestamp.cpp.s
+.PHONY : timestamp.s
+
+# target to generate assembly for a file
+timestamp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/muduo.dir/build.make CMakeFiles/muduo.dir/timestamp.cpp.s
+.PHONY : timestamp.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +216,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... timestamp.o"
+	@echo "... timestamp.i"
+	@echo "... timestamp.s"
 .PHONY : help
 
 

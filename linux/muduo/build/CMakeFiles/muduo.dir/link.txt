@@ -1,1 +1,1 @@
-/usr/bin/c++  -g -std=c++11 -w CMakeFiles/muduo.dir/log.cpp.o CMakeFiles/muduo.dir/main.cpp.o -o muduo
+/usr/bin/c++  -g -std=c++11 -w CMakeFiles/muduo.dir/log.cpp.o CMakeFiles/muduo.dir/main.cpp.o CMakeFiles/muduo.dir/timestamp.cpp.o -o muduo

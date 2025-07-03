@@ -1,6 +1,7 @@
-CMakeFiles/muduo.dir/main.cpp.o: /home/hahaha/vscode/muduo/main.cpp \
- /usr/include/stdc-predef.h /home/hahaha/vscode/muduo/log.hpp \
- /usr/include/c++/14/iostream /usr/include/c++/14/bits/requires_hosted.h \
+CMakeFiles/muduo.dir/timestamp.cpp.o: \
+ /home/hahaha/vscode/muduo/timestamp.cpp /usr/include/stdc-predef.h \
+ /home/hahaha/vscode/muduo/timestamp.hpp /usr/include/c++/14/iostream \
+ /usr/include/c++/14/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/14/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -144,13 +145,4 @@ CMakeFiles/muduo.dir/main.cpp.o: /home/hahaha/vscode/muduo/main.cpp \
  /usr/include/c++/14/bits/locale_facets.tcc \
  /usr/include/c++/14/bits/basic_ios.tcc \
  /usr/include/c++/14/bits/ostream.tcc /usr/include/c++/14/istream \
- /usr/include/c++/14/bits/istream.tcc /usr/include/c++/14/chrono \
- /usr/include/c++/14/bits/chrono.h /usr/include/c++/14/ratio \
- /usr/include/c++/14/cstdint \
- /usr/lib/gcc/x86_64-linux-gnu/14/include/stdint.h /usr/include/stdint.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h \
- /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
- /usr/include/c++/14/limits /usr/include/c++/14/ctime \
- /usr/include/c++/14/bits/parse_numbers.h \
- /home/hahaha/vscode/muduo/noncopyable.hpp \
- /home/hahaha/vscode/muduo/timestamp.hpp
+ /usr/include/c++/14/bits/istream.tcc

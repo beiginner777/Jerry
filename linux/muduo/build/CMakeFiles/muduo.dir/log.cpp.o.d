@@ -152,4 +152,5 @@ CMakeFiles/muduo.dir/log.cpp.o: /home/hahaha/vscode/muduo/log.cpp \
  /usr/include/x86_64-linux-gnu/bits/stdint-least.h \
  /usr/include/c++/14/limits /usr/include/c++/14/ctime \
  /usr/include/c++/14/bits/parse_numbers.h \
- /home/hahaha/vscode/muduo/noncopyable.hpp
+ /home/hahaha/vscode/muduo/noncopyable.hpp \
+ /home/hahaha/vscode/muduo/timestamp.hpp

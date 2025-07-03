@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/hahaha/vscode/muduo/log.cpp" "CMakeFiles/muduo.dir/log.cpp.o" "gcc" "CMakeFiles/muduo.dir/log.cpp.o.d"
   "/home/hahaha/vscode/muduo/main.cpp" "CMakeFiles/muduo.dir/main.cpp.o" "gcc" "CMakeFiles/muduo.dir/main.cpp.o.d"
+  "/home/hahaha/vscode/muduo/timestamp.cpp" "CMakeFiles/muduo.dir/timestamp.cpp.o" "gcc" "CMakeFiles/muduo.dir/timestamp.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
